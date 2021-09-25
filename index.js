@@ -5,7 +5,7 @@ const config = require("./config.json"); // Input souboru s nastavením
 // Console logy při zapnutí + Activity status
 client.on('ready', () => { // Bot úspěšně zapnut
   console.log('-----------------------');
-  console.log('| GalaxyCode Bot v1.1 |');
+  console.log('| GalaxyCode Bot v1.2 |');
   console.log('| By Marek_p          |');
   console.log('-----------------------');
   console.log(`[LOG] Přihlášen jako ${client.user.tag}`); // Uživatel
