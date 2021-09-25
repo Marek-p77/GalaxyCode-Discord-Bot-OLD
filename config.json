@@ -1,0 +1,6 @@
+{
+  "prefix": ".",
+  "token": "váš discord bot token zde",
+  "staffid": "ID admin role (například majitel)",
+  "verifyid": "ID role pro všechny (například member)" 
+}
