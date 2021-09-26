@@ -1,5 +1,4 @@
 # 🤖 GalaxyCode Discord Bot v1.2
-[grd_count user="Marek_p" repo="GalaxyCode-Discord-Bot"]
 Discord bot, který dokáže zjistit status Minecraft serverů, vytvářet vlastní embed zprávy s pomocí příkadz ".embed nadpis_text", poslat pozváku s pomocí příkazu ".invite" a brzy mnohem více! Pro zprovoznení upravte soubor config.json a vyplňte v něm všechna důležitá data. Pro správnou funkčnost je nezbytné mít nainstalované všechny NPM moduly a NodeJS. Command pro zjištění statusu je "status <adresa>" bez prefixu. Status command pro mě z velké části vytvořil TominoKubino s použitím této API: https://api.mcsrvstat.us/ Bota můžete libovolně upravovat, má kód plný poznámek :)
   ## Ukázka Funkcí:
 ![](https://media.discordapp.net/attachments/865982224607871006/891044704781733908/screen.png)
