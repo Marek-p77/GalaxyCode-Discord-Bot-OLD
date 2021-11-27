@@ -5,6 +5,8 @@
 Discord bot, který dokáže zjistit status Minecraft serverů, vytvářet vlastní embed zprávy s pomocí příkadz ".embed nadpis_text", poslat pozváku s pomocí příkazu ".invite" a brzy mnohem více! Pro zprovoznení upravte soubor config.json a vyplňte v něm všechna důležitá data. Pro správnou funkčnost je nezbytné mít nainstalované všechny NPM moduly a NodeJS. Command pro zjištění statusu je "status <adresa>" bez prefixu. Status command pro mě z velké části vytvořil TominoKubino s použitím této API: https://api.mcsrvstat.us/ Bota můžete libovolně upravovat, má kód plný poznámek :)
   
   📞Discord podpora: -> https://dsc.gg/galaxycode <-
+                                                     
+  Poznámka: Verze 1.3 odložena na Nový rok z důvodu časového omezení...                                                   
   
   ### ⚙️Funkce
                     
