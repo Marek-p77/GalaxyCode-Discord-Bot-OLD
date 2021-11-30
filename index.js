@@ -31,7 +31,7 @@ for (const file of commandFiles) {
 var lastChannelId = "";
 var lastEmbedChannelId = "";
 
-// Speciální commandy
+// Speciální commandy 
 client.on('message', (message) => {
     if (!message.author.bot) {
         if (message.content.toLowerCase() == "ip" || message.content.toLowerCase() == "!ip") {
