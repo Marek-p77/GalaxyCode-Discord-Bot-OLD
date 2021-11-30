@@ -19,7 +19,7 @@ client.on('ready', () => { // Bot úspěšně zapnut
 
 const fs = require('fs')
 
-// Integrace se složkou commands
+// Integrace se složkou commands 
 client.commands = new Discord.Collection();
 const commandFiles = fs.readdirSync('./commands/').filter(file => file.endsWith('.js'));
 for (const file of commandFiles) {
